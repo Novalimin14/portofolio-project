@@ -21,7 +21,7 @@ export default function Home() {
             Software Developer
           </p>
           <h1 className="text-4xl md:text-6xl font-extrabold mt-4">
-            Hello, I'm <span className="text-green-500">Muhammad Noval Muhaimin</span>
+            Hello, I&apos;m <span className="text-green-500">Muhammad Noval Muhaimin</span>
           </h1>
           <p className="text-gray-400 mt-4">
           I specialize in developing responsive and user-friendly applications while continuously improving my skills in modern programming frameworks and tools.

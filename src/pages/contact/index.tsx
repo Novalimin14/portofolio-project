@@ -10,7 +10,7 @@ const Contact = () => {
         {/* Formulir Kontak */}
         <div>
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-green-500 mb-4">
-            Let's work together
+            Let&apos;s work together
           </h2>
           <p className="text-white/70 mb-6">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt
