@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { faHtml5, faCss3Alt, faJsSquare, faReact, faLaravel, faJava, faAndroid, faGitAlt, faPhp } from "@fortawesome/free-brands-svg-icons";
+import { faHtml5, faCss3Alt, faJsSquare,faPython, faReact, faLaravel, faJava, faAndroid, faGitAlt, faPhp } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faL } from "@fortawesome/free-solid-svg-icons";
 export default function WhyHireMe() {
@@ -93,6 +93,7 @@ export default function WhyHireMe() {
       { icon: faGitAlt, alt: "Git" },
       { icon: faAndroid, alt: "Android Studio" },
       { icon: faLaravel, alt: "Laravel" },
+      { icon: faPython, alt: "Phyton" },
     ],
     AboutMe: {
       name: "Muhammad Noval Muhaimin",

@@ -5,20 +5,20 @@ const dataServices = [
     {
         title: "Web Development",
         numbers: "01",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, neque!"
+        description: "I develop responsive and functional websites using frameworks like Laravel, React, and Next.js, focusing on performance optimization and user experience."
     },
     {
         title: "Mobile Development",
         numbers: "02",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, neque!"
+        description: "I build mobile applications using Android Studio with Java, designed to meet user needs with optimal performance and functionality."
     },
     {
-        title: "UI/UX Designer",
+        title: "UI/UX Design",
         numbers: "03",
-        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus, neque!"
+        description: "I create engaging and intuitive user interfaces with a strong focus on user experience, ensuring the design aligns with business goals and is easy to use."
     },
-    
-]
+];
+
 
 
 const Services = () => {
